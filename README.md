@@ -1,1 +1,1 @@
-# FileSystemUtils
+A very small (at the time of writing 1) collection file system utils.
